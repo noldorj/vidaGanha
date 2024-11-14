@@ -1,0 +1,77 @@
+
+[     UTC     ] Logs for vidaganha.streamlit.app/
+────────────────────────────────────────────────────────────────────────────────────────
+[18:38:58] 🖥 Provisioning machine...
+[18:38:58] 🎛 Preparing system...
+[18:38:58] ⛓ Spinning up manager process...
+[18:38:59] 🚀 Starting up repository: 'vidaganha', branch: 'ver1', main module: 'main.py'
+[18:38:59] 🐙 Cloning repository...
+[18:38:59] 🐙 Cloning into '/mount/src/vidaganha'...
+
+[18:39:00] 🐙 Cloned repository!
+[18:39:00] 🐙 Pulling code changes from Github...
+[18:39:00] 📦 Processing dependencies...
+
+──────────────────────────────────────── uv ───────────────────────────────────────────
+
+Using uv pip install.
+Resolved 46 packages in 221ms
+Downloaded 46 packages in 1.46s
+Installed 46 packages in 74ms
+ + altair==5.4.1
+ +[2024-11-14 18:39:02.501270]  attrs==24.2.0
+ + beautifulsoup4==4.12.3
+ + blinker==1.9.0
+ + cachetools==5.5.0
+ + certifi==2024.8.30
+ + charset-normalizer==3.4.0
+ + click==8.1.7
+ + colorama==0.4.6
+ + et-xmlfile==2.0.0
+ + gitdb==4.0.11
+ + gitpython==3.1.43
+ + idna==3.10
+ + jinja2==3.1.4
+ [2024-11-14 18:39:02.501547] + jsonschema==4.23.0
+ + jsonschema-specifications==2024.10.1
+ + markdown-it-py==3.0.0
+ + markupsafe==3.0.2
+ + mdurl==0.1.2
+ + narwhals==1.13.5
+ + numpy==2.1.3
+ [2024-11-14 18:39:02.501749] + openpyxl==3.1.5
+ + packaging==24.2
+ + pandas==2.2.3
+ + pillow==11.0.0
+ + protobuf==5.28.3
+ + pyarrow==18.0.0
+ + [2024-11-14 18:39:02.501890] pydeck==0.9.1
+ + pygments==2.18.0
+ + python-dateutil==2.9.0.post0
+ + pytz==2024.2
+ + referencing==0.35.1
+ + requests==2.32.3
+ + rich==13.9.4[2024-11-14 18:39:02.501998] 
+ + rpds-py==0.21.0
+ + six==1.16.0
+ + smmap==5.0.1
+ + soupsieve==2.6
+ + streamlit==1.40.1
+ + tenacity==9.0.0
+ + toml==0.10.2
+ + tornado==6.4.1
+ + typing-extensions==4.12.2
+ + tzdata==2024.2
+ + urllib3==2.2.3
+ + watchdog==6.0.0
+Checking if Streamlit is installed
+Found Streamlit version 1.40.1 in the environment
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+[18:39:04] 🐍 Python dependencies were installed from /mount/src/vidaganha/requirements.txt using uv.
+Check if streamlit is installed
+Streamlit is already installed
+[18:39:06] 📦 Processed dependencies!
+
+
